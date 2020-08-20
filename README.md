@@ -1,4 +1,6 @@
 # tensorflow_cc
+## For tensorflow1 cuda / c++ compile
+
 [![Build Status](http://elm.floop.cz:8080/buildStatus/icon?job=tensorflow_cc)](http://elm.floop.cz:8080/job/tensorflow_cc/)
 [![TF version](https://img.shields.io/badge/TF%20version-2.2.0-brightgreen.svg)]()
 
